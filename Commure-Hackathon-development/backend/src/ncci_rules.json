@@ -1,0 +1,892 @@
+[
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "0591T",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 0591T can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "0592T",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 0592T can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "0593T",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 0593T can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "90473",
+    "modifier_allowed": false,
+    "modifier_indicator": "9",
+    "rule_text": "Modifier not applicable. Claim will be denied.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "96160",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 96160 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "96161",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 96161 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99202",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99202 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99203",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99203 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99204",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99204 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99205",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99205 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99211",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99211 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99212",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99212 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99213",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99213 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99214",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99214 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99215",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99215 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99241",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99241 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99242",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99242 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99243",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99243 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99244",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99244 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99245",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99245 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99281",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99281 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99282",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99282 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99283",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99283 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99284",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99284 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99285",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99285 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99381",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99381 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99382",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99382 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99383",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99383 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99384",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99384 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99385",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99385 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99386",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99386 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99387",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99387 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99391",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99391 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99392",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99392 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99393",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99393 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99394",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99394 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99395",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99395 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99396",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99396 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99397",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99397 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99401",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99401 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99402",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99402 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99403",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99403 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99404",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99404 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99406",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99406 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99407",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99407 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99408",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99408 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99409",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99409 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99411",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99411 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99412",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99412 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99483",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99483 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001A",
+    "code2": "99497",
+    "modifier_allowed": true,
+    "modifier_indicator": "1",
+    "rule_text": "CPT 99497 can be billed with 0001A when modifier 1 is used.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "80050",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 80050.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "80053",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 80053.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "80076",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 80076.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "82977",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 82977.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "83010",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 83010.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001M",
+    "code2": "84460",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001M cannot be billed together with 84460.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0001U",
+    "code2": "96523",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0001U cannot be billed together with 96523.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "0001M",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 0001M.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80047",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80047.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80048",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80048.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80050",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80050.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80053",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80053.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80061",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80061.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80069",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80069.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "80076",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 80076.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "82465",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 82465.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "82977",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 82977.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "83010",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 83010.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "84450",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 84450.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "84460",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 84460.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002M",
+    "code2": "84478",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002M cannot be billed together with 84478.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0002U",
+    "code2": "96523",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0002U cannot be billed together with 96523.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0001A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0001A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0002A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0002A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0004A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0004A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0011A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0011A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0012A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0012A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0013A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0013A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0021A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0021A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0022A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0022A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0031A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0031A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0034A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0034A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0051A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0051A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0052A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0052A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0053A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0053A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0054A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0054A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0064A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0064A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  },
+  {
+    "type": "PTP",
+    "code1": "0003A",
+    "code2": "0071A",
+    "modifier_allowed": false,
+    "modifier_indicator": "0",
+    "rule_text": "CPT 0003A cannot be billed together with 0071A.",
+    "source_file": "Ncci_source_data.xlsx",
+    "source_sheet": "Sheet1"
+  }
+]

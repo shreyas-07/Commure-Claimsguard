@@ -1,0 +1,45 @@
+.header {
+  width: 100%;
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+  color: white;
+  padding: 1.25rem 0;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.header__content {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.header__logo {
+  font-size: 1.75rem;
+  color: white;
+}
+
+.header__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  margin-top: 0.1rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+  .header__title {
+    font-size: 1.25rem;
+  }
+
+  .header__logo {
+    font-size: 1.5rem;
+  }
+}
